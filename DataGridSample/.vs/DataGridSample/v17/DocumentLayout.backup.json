@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|c:\\users\\abineshpalanisamy\\downloads\\scroll state kb\\datagridsample\\datagridsample\\datagridsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|solutionrelative:datagridsample\\datagridsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|c:\\users\\abineshpalanisamy\\downloads\\scroll state kb\\datagridsample\\datagridsample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|solutionrelative:datagridsample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|c:\\users\\abineshpalanisamy\\downloads\\scroll state kb\\datagridsample\\datagridsample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5087D544-77A5-4C5E-B020-BA2FD216F378}|DataGridSample\\DataGridSample.csproj|solutionrelative:datagridsample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DataGridSample\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\MainPage.xaml.cs",
+              "RelativeToolTip": "DataGridSample\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:06:29.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DataGridSample\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\MainPage.xaml",
+              "RelativeToolTip": "DataGridSample\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-18T10:06:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataGridSample",
+              "DocumentMoniker": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\DataGridSample.csproj",
+              "RelativeDocumentMoniker": "DataGridSample\\DataGridSample.csproj",
+              "ToolTip": "C:\\Users\\AbineshPalanisamy\\Downloads\\Scroll state KB\\DataGridSample\\DataGridSample\\DataGridSample.csproj",
+              "RelativeToolTip": "DataGridSample\\DataGridSample.csproj",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T10:05:38.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
